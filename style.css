@@ -1,0 +1,158 @@
+
+section.container-fluid{
+    padding: 2%;
+}
+
+.navbarSupportedContent{
+    padding: 5px;
+}
+
+
+.nav-item{
+    color: #000;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#New-Rosa{
+    font-weight: 600;
+    color: #FFF;
+    border-radius: 12px;
+    background: #FF5480;
+}
+
+#view-all-new{
+    text-align: right;
+}
+
+.background1{
+    background-image: url('/assets/images/fondo-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.col-sm-4{
+    padding-left: 40px;
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 600;
+    line-height: 46px;
+   
+}
+
+h2{
+    color: #111210;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 58px; 
+    letter-spacing: -0.15px;
+}
+
+
+h3{
+    font-size: 16px;
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 58px; 
+    letter-spacing: -0.1px;
+    margin: 0%;
+}
+
+h3.p{
+    line-height: 32px;
+}
+
+h3.pink{
+    color: #FF5480;
+}
+
+h6.date{
+    color: #9B9B9B;
+}
+
+img.image-group{
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+h2.text-image{
+    display: inline-block;
+    font-weight: 500;
+    margin-right: 110px;
+    margin-left: 30px;
+}
+
+h6.popular{
+  color: #9B9B9B; 
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+p.random{
+    color: #9B9B9B;  
+}
+
+i.boton-siguiente{
+    width: 80px;
+    height: 225px;
+    fill: #FFF;
+    filter: drop-shadow(0px 0px 8px rgba(0, 0, 0, 0.08));
+}
+
+#Popular{
+    margin-top: 5%;
+}
+
+#Random{
+    margin-top: 10%;
+}
+
+#rosa{
+    color: #FF5480;
+}
+
+.background2{
+    background-image: url('/assets/images/fondo-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background3{
+    background-image: url('/assets/images/fondo-3.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.rectangle{
+    width: 50%;
+    height: 50%;
+    border-radius: 5%;
+    background: #FFF;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.08);
+}
+
+#essential{
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+#random-rectangle{
+    width: 50%;
+    border-radius: 5%;
+    background: #FFF;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.08);
+}
+
+#footer{
+    height: 0%;
+    margin-top: 10%;
+}
