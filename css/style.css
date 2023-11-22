@@ -22,9 +22,6 @@ section.container-fluid{
     background: #FF5480;
 }
 
-#view-all-new{
-    text-align: right;
-}
 
 .background1{
     background-image: url('/assets/images/fondo-1.jpg');
@@ -32,9 +29,7 @@ section.container-fluid{
     background-size: cover;
 }
 
-div.col-sm-4{
-    padding-left: 40px;
-}
+
 
 h1{
     font-size: 28px;
@@ -79,14 +74,12 @@ h6.date{
 
 img.image-group{
     border-radius: 10px;
-    margin-right: 20px;
 }
 
 h2.text-image{
     display: inline-block;
     font-weight: 500;
-    margin-right: 110px;
-    margin-left: 30px;
+    margin-left: 15%;
 }
 
 h6.popular{
@@ -99,12 +92,6 @@ p.random{
     color: #9B9B9B;  
 }
 
-i.boton-siguiente{
-    width: 80px;
-    height: 225px;
-    fill: #FFF;
-    filter: drop-shadow(0px 0px 8px rgba(0, 0, 0, 0.08));
-}
 
 #Popular{
     margin-top: 5%;
