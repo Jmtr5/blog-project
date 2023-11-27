@@ -2,8 +2,8 @@
 section.container-fluid{
     padding-top: 3%;
     padding-bottom: 5%;
-    padding-right: 15%;
-    padding-left: 15%
+    padding-right: 13%;
+    padding-left: 13%
 }
     
 .nav-item{
@@ -118,11 +118,9 @@ p.random{
 }
 
 div.rectangle{
-    width: 50%;
-    height: 50%;
     border-radius: 5%;
     background: #FFF;
-    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.08);
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.30);
 }
 
 #essential{
@@ -178,4 +176,21 @@ img.image-group-news{
 
 .load-button:hover{
     color: #ff547fad;
+}
+
+.input{
+    border: 1px solid rgb(255, 255, 255);
+    margin-left: 25%;
+    border-radius: 40px;
+    background: #FFF;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.20);
+}
+
+#all-topics{
+    font-weight: 700;
+}
+
+.subscribe-button{
+    color: #FF5480;
+    width: 100%;
 }
