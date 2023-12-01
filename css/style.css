@@ -24,7 +24,7 @@ section.container-fluid{
 
 
 .background1{
-    background:url('../assets/images/fondo-1.jpg');
+    background: url('../assets/images/fondo-1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
