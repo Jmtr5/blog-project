@@ -230,6 +230,7 @@ img.image-group-news{
 
 #blue{
     color: #27AEFF;
+    font-weight: 600;
 }
 
 h6.single-text{
@@ -257,7 +258,7 @@ img.image-group-single{
     font-size: 24px;
     font-style: italic;
     font-weight: 300;
-    line-height: 58px; /* 241.667% */
+    line-height: 58px;
     letter-spacing: -0.15px;
 }
 
@@ -272,6 +273,8 @@ img.image-group-single{
 }
 
 h2.leave_comment{
+    margin-left: 70%;
+    width: 70%;
     border: 2px solid; color: #FF5480;
     padding: 5%;
     border-radius: 5px;
@@ -306,8 +309,8 @@ button.reply{
 
 .single_rectangle{
     margin-left: 10%;
-    width: 75%;
-    height: 15%;
+    width: 70%;
+    height: 13%;
     border-radius: 8px;
     background: #FFF;
     box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.20);
@@ -325,3 +328,68 @@ button.reply{
     font-weight: 500;
     letter-spacing: -0.1px;
 }
+
+.single_button{
+    border: 0;
+    color: #FFF;
+    font-weight: 600;
+    margin-top: 5%;
+    margin-left: 20%;
+    width: 25%;
+    height: 15%;
+    line-height: 50px;
+    border-radius: 40px;
+    background-color: #FF5480;
+}
+
+#text-area{
+    margin-left: 20%;
+    padding-bottom: 22%;
+}
+
+
+.contact_rectangle{
+    border: 4px solid #000;
+    width: 70%;
+    height: 100%;
+    border-radius: 8px;
+    background: url('/assets/images/gris.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form_contact{
+    width: 65%;
+    border-radius: 10px;
+    border: 2px solid #000000;
+    background: #ffffff;
+    color: #000000;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -0.1px;
+}
+
+
+
+.contact_button{
+    color: #000000;
+    font-weight: 600;
+    width: 40%;
+    height: 30%;
+    font-weight: 700;
+    margin-left: 30%;
+    margin-bottom: 5%;
+    line-height: 50px;
+    border-radius: 40px;
+    background-color: rgb(255, 255, 255);
+}
+
+#white{
+    text-shadow: -1px -1px 0 black, 2px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+    color: #FFF;
+    font-weight: 600;
+}
+
+
