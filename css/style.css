@@ -353,7 +353,7 @@ button.reply{
     width: 70%;
     height: 100%;
     border-radius: 8px;
-    background: url(/assets/images/gris.jpg');
+    background: url(assets/images/gris.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
