@@ -5,7 +5,7 @@ section.container-fluid{
     padding-right: 15%;
     padding-left: 15%
 }
-    
+
 .nav-item{
     color: #000;
     font-family: 'Open Sans',sans-serif;
@@ -24,7 +24,7 @@ section.container-fluid{
 
 
 .background1{
-    background: url(assets/images/fondo-1.jpg);
+    background: url(/assets/images/fondo-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -115,13 +115,13 @@ p.random{
 }
 
 .background2{
-    background: url(assets/images/fondo-2.jpg);
+    background: url(/assets/images/fondo-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .background3{
-    background: url(assets/images/fondo-3.svg);
+    background: url(/assets/images/fondo-3.svg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -353,7 +353,7 @@ button.reply{
     width: 70%;
     height: 100%;
     border-radius: 8px;
-    background: url('/assets/images/gris.jpg');
+    background: url(/assets/images/gris.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
